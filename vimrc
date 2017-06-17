@@ -39,6 +39,7 @@ set foldmethod=indent
 set backspace=indent,eol,start
 set hidden
 " Colors 
+set background=dark
 colorscheme OceanicNext
 " Keymapping
 
