@@ -15,6 +15,7 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'somini/vim-autoclose'
 Plugin 'tpope/vim-ragtag'
 Plugin 'mattn/emmet-vim'
+Plugin 'flazz/vim-colorschemes'
 call vundle#end()
 
 filetype plugin indent on
@@ -37,6 +38,8 @@ set foldnestmax=10
 set foldmethod=indent
 set backspace=indent,eol,start
 set hidden
+" Colors 
+colorscheme OceanicNext
 " Keymapping
 
 map <C-n> :NERDTreeToggle<CR>
