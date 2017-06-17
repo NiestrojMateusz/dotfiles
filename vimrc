@@ -24,6 +24,7 @@ Plugin 'thaerkh/vim-indentguides'
 Plugin 'xolox/vim-session'
 Plugin 'xolox/vim-misc'
 Bundle 'vim-ruby/vim-ruby'
+
 call vundle#end()
 
 filetype plugin indent on
