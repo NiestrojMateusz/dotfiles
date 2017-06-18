@@ -23,7 +23,12 @@ Plugin 'majutsushi/tagbar'
 Plugin 'thaerkh/vim-indentguides'
 Plugin 'xolox/vim-session'
 Plugin 'xolox/vim-misc'
-Bundle 'vim-ruby/vim-ruby'
+Plugin 'vim-ruby/vim-ruby'
+" Snipmate
+Plugin 'MarcWeber/vim-addon-mw-utils'
+Plugin 'tomtom/tlib_vim'
+Plugin 'garbas/vim-snipmate'
+Plugin 'honza/vim-snippets'
 
 call vundle#end()
 
